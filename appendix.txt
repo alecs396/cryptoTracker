@@ -1,0 +1,4 @@
+npm install express
+npm install body-parser --save
+npm install puppeteer
+npm install cors
